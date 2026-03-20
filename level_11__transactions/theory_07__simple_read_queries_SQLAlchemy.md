@@ -1,0 +1,1 @@
+[level_06__SQLAlchemy_as_ORM/theory_16__simple_read_queries_SQLAlchemy.md](../level_06__SQLAlchemy_as_ORM/theory_16__simple_read_queries_SQLAlchemy.md)
